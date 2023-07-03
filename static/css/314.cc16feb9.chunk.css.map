@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/314.cc16feb9.chunk.css","mappings":"AAAA,4BAEI,WACJ,CACA,mBAEI,YAAa,CADb,WAEJ","sources":["components/CarsFormEditCar/carsFormEditCar.css"],"sourcesContent":[".modal-footer,\n.modal-header {\n    border: none;\n}\n.spinner-lazy-load {\n    width: 500px;\n    height: 308px;\n}\n"],"names":[],"sourceRoot":""}
